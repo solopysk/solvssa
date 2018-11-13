@@ -1,2 +1,0 @@
-# solvssa
-Created with CodeSandbox
